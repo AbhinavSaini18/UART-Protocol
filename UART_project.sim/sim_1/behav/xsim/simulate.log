@@ -1,5 +1,0 @@
-Time resolution is 1 ps
-Received = 41 (A)
-Received = 43 (C)
-Received = 43 (C)
-$finish called at time : 4001370 ns : File "D:/Abhinav/Coding/UART_project/UART_project.srcs/sim_1/new/tb_uart_top.sv" Line 131
