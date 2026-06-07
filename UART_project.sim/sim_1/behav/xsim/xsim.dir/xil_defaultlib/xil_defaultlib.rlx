@@ -1,0 +1,17 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+D:/Abhinav/Coding/UART_project/UART_project.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,uvm,,,,,,
+D:/Abhinav/Coding/UART_project/UART_project.srcs/sim_1/new/fifo_tb.sv,1780206053,systemVerilog,,,,fifo_tb,,uvm,E:/Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+,,,,,,tb_uart_top,,,,,,,,
+D:/Abhinav/Coding/UART_project/UART_project.srcs/sim_1/new/uart_rx_tb.sv,1780033356,systemVerilog,,,,uart_rx_tb,,uvm,E:/Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/Abhinav/Coding/UART_project/UART_project.srcs/sim_1/new/uart_top_tb.sv,1780036701,systemVerilog,,,,uart_top_tb,,uvm,E:/Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/Abhinav/Coding/UART_project/UART_project.srcs/sim_1/new/uart_tx_tb.sv,1779953490,systemVerilog,,,,uart_tx_tb,,uvm,E:/Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/Abhinav/Coding/UART_project/UART_project.srcs/sources_1/new/baud_gen.sv,1780496609,systemVerilog,,D:/Abhinav/Coding/UART_project/UART_project.srcs/sources_1/new/fifo.sv,,baud_gen,,uvm,E:/Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/Abhinav/Coding/UART_project/UART_project.srcs/sources_1/new/fifo.sv,1780206074,systemVerilog,,D:/Abhinav/Coding/UART_project/UART_project.srcs/sources_1/new/uart_rx.sv,,fifo,,uvm,E:/Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/Abhinav/Coding/UART_project/UART_project.srcs/sources_1/new/uart_rx.sv,1780131471,systemVerilog,,D:/Abhinav/Coding/UART_project/UART_project.srcs/sources_1/new/uart_rx_fifo_top.sv,,uart_rx,,uvm,E:/Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+,,,,D:/Abhinav/Coding/UART_project/UART_project.srcs/sources_1/new/uart_top.sv,,uart_rx_fifo_top,,,,,,,,
+,,,,D:/Abhinav/Coding/UART_project/UART_project.srcs/sources_1/new/uart_tx.sv,,uart_top,,,,,,,,
+D:/Abhinav/Coding/UART_project/UART_project.srcs/sources_1/new/uart_tx.sv,1779952033,systemVerilog,,D:/Abhinav/Coding/UART_project/UART_project.srcs/sources_1/new/uart_tx_fifo_top.sv,,uart_tx,,uvm,E:/Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+,,,,D:/Abhinav/Coding/UART_project/UART_project.srcs/sim_1/new/tb_uart_top.sv,,uart_tx_fifo_top,,,,,,,,
